@@ -1,4 +1,4 @@
-Hey there! I'm Vishal and here's my [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Hey there! I'm Vishal, and here's my [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-DISCLAIMER: Upon clicking the green button to learn more about me, there's a 50% chance you might get rickrolled. Proceed with caution. 
+DISCLAIMER: Upon clicking the green button to learn more about me, there's a 40% chance you might get rickrolled. Proceed with caution. 
 
 ## Deploy on Vercel
 
