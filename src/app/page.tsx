@@ -3,7 +3,7 @@
 export default function Home(){
     const handleClick = () => {
       const prob = Math.random()
-      if (prob < 0.5){
+      if (prob < 0.4){
         window.open("https://www.youtube.com/watch?v=xMHJGd3wwZk&list=RDxMHJGd3wwZk&start_radio=1")
       }
       else{
