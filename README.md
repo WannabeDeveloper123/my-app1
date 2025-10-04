@@ -1,5 +1,7 @@
 Hey there! I'm Vishal, and here's my [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+DISCLAIMER: Upon clicking the green button to learn more about me, there's a 40% chance you might get rickrolled. Proceed with caution. 
+
 ## Getting Started
 
 First, run the development server:
